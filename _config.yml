@@ -27,7 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: meade_gabriela
 
 # Build settings
-theme: architect
+theme: Architect
 plugins:
   - jekyll-feed
 
